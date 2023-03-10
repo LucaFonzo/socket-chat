@@ -1,0 +1,21 @@
+
+.chat {
+  background-color: #f1f1f1;
+  width: 400px;
+  border-radius: 25;
+}
+
+.messages-container {
+  overflow-y: scroll;
+  height: 400px;
+  max-height: 400px;
+}
+
+.message {
+  border: 1px solid red;
+  margin-top: 10px;
+}
+
+.user-name {
+  color: aqua;
+}
